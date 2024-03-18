@@ -230,6 +230,6 @@ namespace DuongKhacNguyen_BaiTap
 
             Console.ReadKey();
         }
-      
+
     }
 }
